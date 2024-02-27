@@ -1,0 +1,20 @@
+body{
+font-family:english,sens-serif;
+text-align: center;
+
+}
+
+    input[type="submit"]{
+  padding: 10px 20px;
+  background-color: #ff00d0;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+}
+
+    }
